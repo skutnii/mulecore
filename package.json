@@ -1,0 +1,35 @@
+{
+  "name": "mulecore",
+  "version": "0.0.1",
+  "description": "Mulecore - a hybrid mobile app platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skutnii/mulecore.git"
+  },
+  "keywords": [
+    "JS",
+    "iOS",
+    "Android"
+  ],
+  "author": "Sergii Kutnii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skutnii/mulecore/issues"
+  },
+  "homepage": "https://github.com/skutnii/mulecore#readme",
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-config-google": "^0.9.1",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-loader": "^1.9.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "webpack": "^3.10.0"
+  }
+}
